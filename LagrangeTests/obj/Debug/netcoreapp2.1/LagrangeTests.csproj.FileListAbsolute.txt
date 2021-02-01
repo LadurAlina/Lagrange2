@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\LagrangeTests.deps.json
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\LagrangeTests.runtimeconfig.json
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\LagrangeTests.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\LagrangeTests.dll
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\LagrangeTests.pdb
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\Lagrange2.dll
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\bin\Debug\netcoreapp2.1\Lagrange2.pdb
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\obj\Debug\netcoreapp2.1\LagrangeTests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\obj\Debug\netcoreapp2.1\LagrangeTests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\obj\Debug\netcoreapp2.1\LagrangeTests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\obj\Debug\netcoreapp2.1\LagrangeTests.AssemblyInfo.cs
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\obj\Debug\netcoreapp2.1\LagrangeTests.csproj.CopyComplete
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\obj\Debug\netcoreapp2.1\LagrangeTests.dll
+C:\Users\User\source\repos\Lagrange2\LagrangeTests\obj\Debug\netcoreapp2.1\LagrangeTests.pdb

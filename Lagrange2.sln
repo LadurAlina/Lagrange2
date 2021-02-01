@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lagrange2", "Lagrange2\Lagrange2.csproj", "{0FFDD56C-21C5-4EDC-BD15-BB29FE8EB4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LagrangeTests", "LagrangeTests\LagrangeTests.csproj", "{03C77D8F-1158-4567-8E50-71D9555DBB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFDD56C-21C5-4EDC-BD15-BB29FE8EB4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFDD56C-21C5-4EDC-BD15-BB29FE8EB4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFDD56C-21C5-4EDC-BD15-BB29FE8EB4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFDD56C-21C5-4EDC-BD15-BB29FE8EB4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C77D8F-1158-4567-8E50-71D9555DBB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C77D8F-1158-4567-8E50-71D9555DBB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C77D8F-1158-4567-8E50-71D9555DBB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C77D8F-1158-4567-8E50-71D9555DBB58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34C71AA7-F2CF-4DAE-B5C4-61E782C3A4C1}
+	EndGlobalSection
+EndGlobal
